@@ -24,3 +24,11 @@ ol.episode_list > li {
     margin-bottom: 5px;
     width: 600px;
 }
+
+.arr {
+    background-color: darkgrey;
+}
+
+.heavensward {
+    background-color: deepskyblue;
+}
